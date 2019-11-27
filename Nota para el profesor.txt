@@ -1,0 +1,8 @@
+Saludo profe'.
+
+Algunas cosas extras que hicé.
+
+1-Le añadí una foto de perfil.(Por el momento solo va a generar una foto aleatoria de un carro que la va a obtener desde internet).
+2-Hicé que tambien generará un archivo CSS con los estilos HTML.
+
+I hope you like it! ;)

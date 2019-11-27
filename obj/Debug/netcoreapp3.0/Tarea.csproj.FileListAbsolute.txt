@@ -1,0 +1,11 @@
+C:\Users\Luis\Desktop\Tarea\bin\Debug\netcoreapp3.0\Tarea.exe
+C:\Users\Luis\Desktop\Tarea\bin\Debug\netcoreapp3.0\Tarea.deps.json
+C:\Users\Luis\Desktop\Tarea\bin\Debug\netcoreapp3.0\Tarea.runtimeconfig.json
+C:\Users\Luis\Desktop\Tarea\bin\Debug\netcoreapp3.0\Tarea.runtimeconfig.dev.json
+C:\Users\Luis\Desktop\Tarea\bin\Debug\netcoreapp3.0\Tarea.dll
+C:\Users\Luis\Desktop\Tarea\bin\Debug\netcoreapp3.0\Tarea.pdb
+C:\Users\Luis\Desktop\Tarea\obj\Debug\netcoreapp3.0\Tarea.csprojAssemblyReference.cache
+C:\Users\Luis\Desktop\Tarea\obj\Debug\netcoreapp3.0\Tarea.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Tarea\obj\Debug\netcoreapp3.0\Tarea.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Tarea\obj\Debug\netcoreapp3.0\Tarea.dll
+C:\Users\Luis\Desktop\Tarea\obj\Debug\netcoreapp3.0\Tarea.pdb
